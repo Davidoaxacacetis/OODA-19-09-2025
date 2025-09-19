@@ -2,7 +2,7 @@
 
 Grupo: 3 - D
 
-Matricla: 24308060610040
+Matricula: 24308060610040
 
 Especialidad: Programacion
 
